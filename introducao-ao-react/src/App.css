@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.um{
+  color: rgb(5, 18, 1);
+}
+.dez{
+  color: rgb(86, 226, 43);
+}
+
+.nove{
+  color: blue;
+  text-transform: uppercase;
+}
+
+.oito{
+  color: rgb(44, 92, 7);
+  text-align: start;
+}
+
+.sete{
+  color: rgb(0, 255, 174);
+  text-decoration: underline;
+}
+
+.seis{
+  color: rgb(255, 77, 0);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cinco{
+  color: rgb(1, 238, 76);
+  font-size: larger;
+}
+
+.quatro{
+  color: rgb(2, 2, 7);
+  font-size: 10px;
+}
+
+.tres{
+  color: rgb(101, 111, 99);
+  text-transform: lowercase;
+}
+
+
+
+
+
